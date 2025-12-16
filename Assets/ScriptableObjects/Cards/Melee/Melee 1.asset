@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3abd12c66bf124ba83f2a3aa75a8ed, type: 3}
+  m_Name: Melee 1
+  m_EditorClassIdentifier: 
+  cardId: 40001
+  cardName: Perceptive Slash
+  description: deals 50% more dmg
+  cardPrefab: {fileID: 3286811647286254743, guid: e63885661e270bb4583793fd4bb09192, type: 3}
+  sprite: {fileID: 21300000, guid: a0251a01284adef4d954d5c465e258cb, type: 3}

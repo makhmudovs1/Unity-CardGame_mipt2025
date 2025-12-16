@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa53ed137e6beda409901f4c5975e420, type: 3}
+  m_Name: DungeonData
+  m_EditorClassIdentifier: 
+  roomsNumber: 5
+  eventRoomsNumber: 0
+  eventRooms:
+  - {fileID: 11400000, guid: 331aa030aa8dbfb4b92f54ebf12a4f2a, type: 2}
+  battleRooms:
+  - {fileID: 11400000, guid: 6bb7731158d1cd54b9c6be09c4b2070d, type: 2}
+  - {fileID: 11400000, guid: 8462ca02ad0cc304c9fb2695fdd0f4b8, type: 2}
+  - {fileID: 11400000, guid: 5af2741ba0767af43ab8dbc6f8a2c2a6, type: 2}
+  - {fileID: 11400000, guid: 636bb122bfcc2e24ab9d4b980692e783, type: 2}
+  currentDungeon:
+  - {fileID: 11400000, guid: 5af2741ba0767af43ab8dbc6f8a2c2a6, type: 2}
+  - {fileID: 11400000, guid: 6bb7731158d1cd54b9c6be09c4b2070d, type: 2}
+  - {fileID: 11400000, guid: 636bb122bfcc2e24ab9d4b980692e783, type: 2}
+  - {fileID: 11400000, guid: 8462ca02ad0cc304c9fb2695fdd0f4b8, type: 2}
+  - {fileID: 11400000, guid: 6bb7731158d1cd54b9c6be09c4b2070d, type: 2}
+  - {fileID: 11400000, guid: 8462ca02ad0cc304c9fb2695fdd0f4b8, type: 2}
+  - {fileID: 11400000, guid: 8462ca02ad0cc304c9fb2695fdd0f4b8, type: 2}

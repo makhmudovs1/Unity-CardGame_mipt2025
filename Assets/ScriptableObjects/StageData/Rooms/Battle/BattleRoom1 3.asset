@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446c47c5c8e72a24fae6a49846ef6058, type: 3}
+  m_Name: BattleRoom1 3
+  m_EditorClassIdentifier: 
+  treasures:
+  - {fileID: 11400000, guid: d863f1a1f8eedf6498aadf77d7538034, type: 2}
+  - {fileID: 11400000, guid: e7bdcbd93779fbc4d89239fd3f58a606, type: 2}
+  - {fileID: 11400000, guid: a22bfa0d078b63a4f8356d6b5cce06b4, type: 2}
+  type: 1
+  enemies:
+  - {fileID: 11400000, guid: 431ec5941dd16a24bbaf25e7d5f4b270, type: 2}
+  - {fileID: 11400000, guid: ffa18053620041749b48ba640a0e8795, type: 2}
+  - {fileID: 11400000, guid: c6a9b2849ec06e245be778362f053230, type: 2}

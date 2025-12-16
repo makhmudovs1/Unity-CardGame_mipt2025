@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3abd12c66bf124ba83f2a3aa75a8ed, type: 3}
+  m_Name: Support 1
+  m_EditorClassIdentifier: 
+  cardId: 20001
+  cardName: First aid
+  description: Heals 50% more
+  cardPrefab: {fileID: 8216109482260157607, guid: 8a9d074c4e3160d4f8dd1e65762b72be, type: 3}
+  sprite: {fileID: 21300000, guid: 029e246f7262f6645ae844ad003c94fd, type: 3}
